@@ -1,0 +1,85 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #888383;
+    background-image: url("../img/prof3.jpg");
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.banner-column{
+    background-color: #525252;
+    opacity: 0.9;
+}
+.navbar-container{
+    top: 0;
+    background-color: #262B37;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: #00BDBD;
+}
+.education-container{
+    background-color: #EEEEEE;
+}
+.bg-redtype{
+    background-color: #FB857F;
+}
+
+.bg-redtype:hover{
+color: black!important;
+}
+
+
+.redtype-color{
+    color: #FB857F;
+}
+.font-weight-bolder{
+    font-weight: bolder!important;
+}
+.circle{
+    background-color: #FB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #2BB3DD;
+}
+.img-fluid{
+    height: 280px;
+    /*width: 260px;*/
+}
+.img-link a{
+    text-decoration: none!important;
+}
+.Contact-container{
+    background-color: #474D5D;
+}
+.contact-box{
+    margin-right: 15px!important;
+}
+.inner-form{
+    background-color: #dbdde2;
+}
+
+.footer-container{
+    background-color: #2BB3DD;
+}
+
+.circle2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2BB3DD;
+}
+.circle2:hover{
+    background-color: #474D5D;
+}
